@@ -7,7 +7,6 @@ import { Router } from '@angular/router';
   styleUrls: ['./post.component.css']
 })
 export class PostComponent {
-
   constructor(private router: Router) {
   }
 
